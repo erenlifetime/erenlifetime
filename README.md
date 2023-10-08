@@ -1,5 +1,4 @@
-<h3 align="center">A Passionate iOS Developer from Turkey</h3>
-
+🔭 I’m currently working on Swift/SwiftUI
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@194medya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@194medya" height="30" width="40" /></a>
