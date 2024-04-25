@@ -1,6 +1,6 @@
-🔭 I’m currently working on Swift/SwiftUI
+# 🔭 I’m currently working on Swift/SwiftUI
 
-I will improve myself every day
+# I will improve myself every day
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://twitter.com/@194medya](https://www.linkedin.com/in/eren-pekdemir-040507225/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@194medya" height="30" width="40" /></a>
