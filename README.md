@@ -1,7 +1,7 @@
 # About Me
-hi my name is eren, i am twenty four years old and i still learning the swift language.
-I have been learning Swift for 2 years and I believe that I still have a lot to learn, but I have no work experience. I would be happy if you can help me with this
-If you are interested I'll send my CV
+hi my name is eren, i am twenty four years old and i still learning swift.
+i have been learning Swift for 2 years and I believe that I still have a lot to learn but i have no work experience. I would be happy if you can help me about that
+if you are interested I'll send my CV
 
  🔭 I’m currently working on Swift/SwiftUI
  
