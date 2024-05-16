@@ -1,7 +1,8 @@
 # About Me
-hi my name is eren, i am twenty four years old and i still learning swift.
-i have been learning Swift for 2 years and i believe that i still have a lot to learn but i have no work experience. i would be happy if you can help me about that
-if you are interested i'll send my CV
+hi my name is eren, i am twenty four years old and i am studying as a History Teacher at Amasya University.
+i have been studying hard for about two years to learn swift language.i improve myself every day and i wanna be ios developer.
+i have no work experience with iOS.i would be very happy if you could help me find a job.
+if you are interested i will send my CV.
 
  🔭 I’m currently working on Swift/SwiftUI
  
