@@ -1,6 +1,6 @@
 # About Me
 hi my name is eren, i am twenty four years old and i am studying as a History Teacher at Amasya University.
-i have been studying hard for about two years to learn swift language.i improve myself every day and i wanna be ios developer.
+i have been studying hard for two years to learn Swift Language. i improve myself every day and i wanna be iOS Developer.
 i have no work experience with iOS.i would be very happy if you could help me find a job.
 if you are interested i will send my CV.
 
