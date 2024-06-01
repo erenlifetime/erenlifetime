@@ -1,10 +1,10 @@
 # About Me
 hi my name is eren, i am twenty four years old. i graduated from history department.
-i have been studying hard for two years to learn Swift Language. i improve myself every day and i want to be iOS Developer.
+i have been studying hard for two years to learn Swift Language. i made many project on swift so i just want to find a job please help me about that.
 i have no work experience with iOS.i would be very happy if you could help me find a job.
 if you are interested i will send my CV.
 
- 🔭 I’m currently working on Swift/SwiftUI
+ 🔭 I’m currently working on Swift
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
