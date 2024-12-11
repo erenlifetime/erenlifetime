@@ -1,7 +1,8 @@
 # About Me
 hi my name is eren, i am twenty four years old. i graduated from history department.
-i have been studying hard for two years to learn Swift Language. i made many project on swift so i just want to find a job.
-i have no work experience with iOS. i would be very happy if you could help me find a job.
+i have been studying hard for two years to learn Swift Language. i made many project on swift with my courses.
+You can see my projects page below
+i continue the process of improving myself
 if you are interested i will send my CV.
 
  🔭 I’m currently working on Swift
