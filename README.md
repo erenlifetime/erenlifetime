@@ -1,6 +1,6 @@
 # About Me
 
-hi my name is eren, i am twenty four years old. i graduated from history department.
+hi my name is eren, i am twenty six years old.
 
 i have been studying hard for two years to learn Swift Language. i made many project on swift with my courses.
 
